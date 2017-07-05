@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImageCompressor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="click_image">Click Image</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="image_content">Image</string>
+
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
